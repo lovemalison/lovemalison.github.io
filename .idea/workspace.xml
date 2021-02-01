@@ -19,32 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18153155-93f5-46ac-846d-813d52102e3a" name="Default Changelist" comment="changes in index">
+    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="add files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookus.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/funclub.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/Guns-N-Roses.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/MTVAwards-Logo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about-background.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/americanmusicawardslogo.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/axlrose.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logomusic.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/slash.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/worldmusicawards.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/HairOfTheDog.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/Scraped.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/WelcomeToTheJungle.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/You Could Be Mine.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/don't cry.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music/intro_song.mp3" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/videos.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/nav.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/intro-bg.jpg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,61 +32,56 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1nqIpK1Kx6eM20djoLFT7WkQUP4" />
+  <component name="ProjectId" id="1ntkOOy6QFQLhvxoEwhzS5ZWjzI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="18153155-93f5-46ac-846d-813d52102e3a" name="Default Changelist" comment="" />
-      <created>1612111375188</created>
+      <changelist id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="" />
+      <created>1612216741987</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1612111375188</updated>
+      <updated>1612216741987</updated>
     </task>
-    <task id="LOCAL-00001" summary="add files">
-      <created>1612113844394</created>
+    <task id="LOCAL-00001" summary="del">
+      <created>1612216782282</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1612113844394</updated>
+      <updated>1612216782282</updated>
     </task>
     <task id="LOCAL-00002" summary="add files">
-      <created>1612115026716</created>
+      <created>1612216850015</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1612115026716</updated>
+      <updated>1612216850015</updated>
     </task>
     <task id="LOCAL-00003" summary="add files">
-      <created>1612115034526</created>
+      <created>1612217008607</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1612115034526</updated>
+      <updated>1612217008607</updated>
     </task>
-    <task id="LOCAL-00004" summary="changes in index">
-      <created>1612117642036</created>
+    <task id="LOCAL-00004" summary="add files">
+      <created>1612217064261</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1612117642036</updated>
+      <updated>1612217064261</updated>
     </task>
-    <task id="LOCAL-00005" summary="changes in index">
-      <created>1612117647720</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1612117647720</updated>
-    </task>
-    <option name="localTasksCounter" value="6" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,17 +94,16 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="del" />
     <MESSAGE value="add files" />
-    <MESSAGE value="changes in index" />
-    <option name="LAST_COMMIT_MESSAGE" value="changes in index" />
+    <option name="LAST_COMMIT_MESSAGE" value="add files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1612112451735">
+    <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612217334700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1612112451735" />
+    <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612217334700" />
   </component>
 </project>
