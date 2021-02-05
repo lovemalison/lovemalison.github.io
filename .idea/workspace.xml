@@ -19,8 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="fixed bg">
-      <change beforePath="$PROJECT_DIR$/_includes/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/grayscale.css" afterDir="false" />
+    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="del description from config file">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +39,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -114,7 +115,42 @@
       <option name="project" value="LOCAL" />
       <updated>1612218655328</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="bg photo size">
+      <created>1612382869911</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1612382869911</updated>
+    </task>
+    <task id="LOCAL-00011" summary="del description from config file">
+      <created>1612383643744</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1612383643744</updated>
+    </task>
+    <task id="LOCAL-00012" summary="del description from config file">
+      <created>1612383863290</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1612383863290</updated>
+    </task>
+    <task id="LOCAL-00013" summary="del description from config file">
+      <created>1612553975361</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1612553975361</updated>
+    </task>
+    <task id="LOCAL-00014" summary="del description from config file">
+      <created>1612554210701</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1612554210701</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,18 +163,33 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="del" />
     <MESSAGE value="add files" />
     <MESSAGE value="first changes" />
     <MESSAGE value="fixed bg" />
-    <option name="LAST_COMMIT_MESSAGE" value="fixed bg" />
+    <MESSAGE value="bg photo size" />
+    <MESSAGE value="del description from config file" />
+    <option name="LAST_COMMIT_MESSAGE" value="del description from config file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612217334700">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="506" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612217334700" />
+    <state x="516" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1612383551007">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="516" y="267" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1536.824@0.0.1536.824" timestamp="1612383551007" />
+    <state x="479" y="11" width="578" height="801" key="find.popup" timestamp="1612554187462">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="11" width="578" height="801" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1612554187462" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1612553719753">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1612553719753" />
   </component>
 </project>
