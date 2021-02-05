@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="add logo pic" />
+    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="add logo pic">
+      <change beforePath="$PROJECT_DIR$/_includes/css/grayscale.css" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/css/grayscale.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -309,7 +311,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612567624863</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="add logo pic">
+      <created>1612567759407</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1612567759407</updated>
+    </task>
+    <task id="LOCAL-00039" summary="add logo pic">
+      <created>1612567958726</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1612567958726</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
