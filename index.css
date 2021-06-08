@@ -136,7 +136,7 @@ button:focus {
     background: rgba(0, 0, 0,0.8); 
 }
 
-@media (max-width: 500px){
+@media (max-width: 480px){
     #right_part {
         width:100%;
         height:95vh;
@@ -160,7 +160,6 @@ button:focus {
         text-align:right;
     }
     #navigation a {
-        width:100%;
         color:#fff;
         text-align: center;
     }
