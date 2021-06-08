@@ -63,32 +63,38 @@ header table {
 #navigation a:hover{
     border-bottom:2px solid #fff;
 }
-#left_part {
+#whole_part {
     width:100%;
-    /*border:2vh solid #fff;*/
 }
-#left_part tr td{
+
+#left_part {
     width:50%;
+    position: center;
+    text-align: center;
+}
+
+.parent {
+  position: relative;
 }
 
 .thrills_logo {
-   background: url(logo.gif) no-repeat 50% 50%;
-   top: 0;
-   left: 0;
-   width: 50%;
-   height: 300px;
-   border-style: none;
+    background: no-repeat 50% 50%
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
 }
 
 .social {
+    position: relative;
+    top: 0;
+    left: 0;
     color:rgb(255, 250, 250);
     font-size:23px;
-    background:transparent no-repeat 50% 50%;
     transition:0.4s ease-in-out;
     font-weight:bold;
-    top: 30px;
-    left: 30px;
 }
+
 .social:hover { 
     cursor: pointer;
     color:#fff;
@@ -99,7 +105,7 @@ header table {
 #right_part {
     width:50%;
     height:95vh;
-    background:url("band-img.jpg") center center;
+    background:url("band-img.jpg") 50% 50%;
     background-size:cover;
     background-repeat:no-repeat;
 }
@@ -137,16 +143,26 @@ button:focus {
 }
 
 @media (max-width: 480px){
+
+    #whole_part {
+        width:100%;
+    }
+
     #right_part {
         width:100%;
         height:95vh;
     }
+
     #left_part {
-        border:0px;
+        width:100%;
+        height:95vh;
     }
-    #left_part tr td{
-        width:50%;
-        text-align:center;
+    .thrills_logo {
+       top: 0;
+       left: 0;
+       width: 50%;
+       height: auto;
+       border-style: none;
     }
     header {
         width:100%;
@@ -160,6 +176,7 @@ button:focus {
         text-align:right;
     }
     #navigation a {
+        background:#000;
         color:#fff;
         text-align: center;
     }
