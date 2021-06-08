@@ -20,69 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="changes">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENCE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/contact.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/css/grayscale.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/download.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/js.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/nav.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/bordered-pulled.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/core.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/fixed-width.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/font-awesome.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/icons.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/larger.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/list.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/mixins.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/path.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/rotated-flipped.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/spinning.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/stacked.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/less/variables.less" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_bordered-pulled.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_core.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_fixed-width.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_icons.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_larger.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_list.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_path.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_rotated-flipped.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_spinning.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_stacked.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/_variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/font-awesome/scss/font-awesome.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/image.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/intro-bg - Copy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/intro-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/intro-bg.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/spiroslogo(skouria).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/grayscale.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.easing.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/jquery.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/screenshot.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro-bg.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

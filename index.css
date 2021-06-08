@@ -101,21 +101,29 @@ header table {
 }
 #top_part {
     width:100%;
-    border:2vh solid #fff;
+    /*border:2vh solid #fff;*/
 }
 #top_part tr td{
     width:50%;
 }
 
+.thrills_logo {
+   background: url(logo.gif) no-repeat 50% 50%;
+   top: 0;
+   left: 0;
+   width: 50%;
+   height: 300px;
+   border-style: none;
+}
+
 .social {
     color:rgb(255, 250, 250);
     font-size:23px;
-    padding:12px 17px;
-    border-radius:50%;
-    background:transparent;
+    background:transparent no-repeat 50% 50%;
     transition:0.4s ease-in-out;
     font-weight:bold;
-    margin:0px 8px;
+    top: 30px;
+    left: 30px;
 }
 .social:hover { 
     cursor: pointer;
@@ -188,7 +196,7 @@ header table {
 #rightImage {
     width:100%;
     height:95vh;
-    background:url("intro-bg.jpg") center center;
+    background:url("band-img.jpg") center center;
     background-size:cover;
     background-repeat:no-repeat;
 }
@@ -299,7 +307,7 @@ header table {
     text-decoration:none;
 }
 ::placeholder {
-    color:#000;
+    color:#000;ta
 }
 button:focus {
     outline:none;
