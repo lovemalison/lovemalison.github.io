@@ -17,9 +17,23 @@
 </head>
 <body>
     <div id="loading">
-        <div id="spinner"></div>
+        <img id="loading-image" src="logo.gif" alt="Loading..." />
     </div>
     <header id="header" class="animated slideInDown" style="animation-delay:2s;">
+        <div class="navbar">
+            <div class="dropdown">
+                <button onclick="myFunction()" class="dropbtn">
+                    <i class="fa fa-bars"></i>
+                </button>
+                <div id="menuDropdown" class="dropdown-content">
+                    <a href="music.html">MUSIC</a>
+                    <a href="#events">EVENTS</a>
+                    <a href="#news">NEWS</a>
+                    <a href="#merch">MERCH</a>
+                    <a href="#about">ABOUT</a>
+                </div>
+            </div>
+        </div>
         <table>
             <tr>
                 <td id="navigation">
