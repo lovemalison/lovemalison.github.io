@@ -175,6 +175,9 @@ button:focus {
         display:none;
     }
 
+    .navbar {
+      display:block;
+    }
 
     /* The dropdown container */
     .dropdown {
