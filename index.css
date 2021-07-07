@@ -78,7 +78,7 @@ header table {
     text-align: center;
 }
 
-.thrills_logo {
+.LM_logo {
     background: no-repeat 50% 50%
     position: relative;
     top: 0;
@@ -104,7 +104,7 @@ header table {
 
 #right_part {
     width:50%;
-    height:95vh;
+    height:100vh;
     background:url("band-img.jpg") 50% 50%;
     background-size:cover;
     background-repeat:no-repeat;
@@ -157,7 +157,7 @@ button:focus {
         height:95vh;
         max-width: 100%;
     }
-    .thrills_logo {
+    .LM_logo {
         max-width: 100%;
         top: 0;
         left: 0;
