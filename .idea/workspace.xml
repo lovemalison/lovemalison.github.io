@@ -20,6 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="changes">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/band-img1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/band-img2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/band-img3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/band-imgbefore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logobefore.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/band-img.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/band-img.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
