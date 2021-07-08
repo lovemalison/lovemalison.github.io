@@ -5,9 +5,13 @@ body {
     padding:0px;
     margin:0px;
     max-width:100vw;
-    overflow-x:hidden;
-    scroll-behavior: smooth;
+    overflow:hidden;
     background-color: black;
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
 }
 #loading {
     width: 100vw;
@@ -84,6 +88,8 @@ header table {
     top: 0;
     left: 0;
     z-index: 1;
+    width: 500px;
+    height: auto;
 }
 
 .social {
@@ -94,12 +100,24 @@ header table {
     font-size:23px;
     transition:0.4s ease-in-out;
     font-weight:bold;
+    border-radius:50%;
+    margin: 0px 8px;
 }
 
 .social:hover { 
     cursor: pointer;
     color:#fff;
     transform: scale(1.5);
+}
+
+#instagram {
+    display: inline-block;
+}
+#spotify {
+    display: inline-block;
+}
+#youtube {
+    display: inline-block;
 }
 
 #right_part {
@@ -116,10 +134,13 @@ header table {
     text-align:center;
     font-weight:bold;
     font-style: italic;
+    position: relative;
+    bottom: 0;
 }
 #footer small {
     color:rgb(255, 255, 255);
     text-decoration:none;
+    bottom: 0;
 }
 
 ::placeholder {
