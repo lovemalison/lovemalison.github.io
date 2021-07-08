@@ -124,6 +124,10 @@ header:hover  #navigation a {
     display: inline-block;
 }
 
+#facebook {
+    display: inline-block;
+}
+
 #right_part {
     width:50%;
     height:100vh;
@@ -167,7 +171,7 @@ button:focus {
     background: rgba(0, 0, 0,0.8); 
 }
 
-@media (max-width: 1000px){
+@media (max-width: 480px){
 
     #whole_part {
         width:100%;
