@@ -169,11 +169,6 @@ button:focus {
 
 @media (max-width: 480px){
 
-    #navigation {
-        text-align:right;
-        width:100%;
-    }
-
     #whole_part {
         width:100%;
     }
@@ -197,12 +192,26 @@ button:focus {
     }
     header {
         width:100%;
-        background:#000;
+        background:black;
         padding:4vh 2vw;
         position:absolute;
     }
+
     #header table tr td {
         display:none;
+    }
+
+    #navigation {
+        text-align:right;
+        width:100%;
+    }
+
+    #navigation a {
+        color:white;
+        text-decoration:none;
+        padding:5px 10px;
+        margin-left:4vw;
+        transition:0.4s ease-in-out;
     }
 
     .navbar {
