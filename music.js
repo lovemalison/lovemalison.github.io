@@ -1,4 +1,4 @@
-var width = $(window).width(); 
+var width = $(window).width();
 window.onscroll = function(){
 if ((width >= 1000)){
     if(document.body.scrollTop > 80 || document.documentElement.scrollTop > 80) {
@@ -33,6 +33,14 @@ setTimeout(function(){
     },800);
 },1650);
 
+
+// function to trigger animation of mobile dropdown
+document.querySelector('.button').addEventListener('click', () => {
+  document.querySelector('.menu__list')
+    .classList.toggle('menu__list--animate');
+});
+
+
 $(document).ready(function(){
     $("a").on('click', function(event) {
       if (this.hash !== "") {
@@ -43,7 +51,6 @@ $(document).ready(function(){
         }, 1800, function(){
         window.location.hash = hash;
        });
-       } 
+       }
       });
   });
-  

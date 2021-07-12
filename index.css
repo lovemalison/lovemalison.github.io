@@ -236,7 +236,7 @@ $menu-items: 5;
     }
 
     .button {
-    color:white;
+        color:white;
         display: flex;
         position: relative;
         top: 0;

@@ -19,9 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="drpdown mobile">
+    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="add custom font">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/music.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.js" beforeDir="false" afterPath="$PROJECT_DIR$/music.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +79,6 @@
       <option name="presentableId" value="Default" />
       <updated>1612216741987</updated>
       <workItem from="1626112667344" duration="842000" />
-    </task>
-    <task id="LOCAL-00006" summary="fixed bg">
-      <created>1612218190022</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1612218190022</updated>
     </task>
     <task id="LOCAL-00007" summary="fixed bg">
       <created>1612218316353</created>
@@ -421,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626109048444</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="add custom font">
+      <created>1626114171990</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1626114171990</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -458,6 +460,7 @@
     <MESSAGE value="menu pc" />
     <MESSAGE value="fb" />
     <MESSAGE value="drpdown mobile" />
-    <option name="LAST_COMMIT_MESSAGE" value="drpdown mobile" />
+    <MESSAGE value="add custom font" />
+    <option name="LAST_COMMIT_MESSAGE" value="add custom font" />
   </component>
 </project>
