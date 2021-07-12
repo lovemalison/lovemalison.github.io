@@ -19,11 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="fb">
+    <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="drpdown mobile">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="com.leinardi.pycharm.pylint.PylintConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -78,13 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612216741987</updated>
-    </task>
-    <task id="LOCAL-00005" summary="first changes">
-      <created>1612217921254</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1612217921254</updated>
+      <workItem from="1626112667344" duration="554000" />
     </task>
     <task id="LOCAL-00006" summary="fixed bg">
       <created>1612218190022</created>
@@ -422,8 +415,18 @@
       <option name="project" value="LOCAL" />
       <updated>1625774921244</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="drpdown mobile">
+      <created>1626109048444</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1626109048444</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -455,6 +458,7 @@
     <MESSAGE value="logo social" />
     <MESSAGE value="menu pc" />
     <MESSAGE value="fb" />
-    <option name="LAST_COMMIT_MESSAGE" value="fb" />
+    <MESSAGE value="drpdown mobile" />
+    <option name="LAST_COMMIT_MESSAGE" value="drpdown mobile" />
   </component>
 </project>

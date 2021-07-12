@@ -171,6 +171,24 @@ header:hover  #navigation a {
 
 @media (max-width: 720px){
 
+// vars and keyframes
+$delay: .5s;
+$menu-items: 5;
+
+@keyframes drop {
+  from {
+    top: 0px;
+  }
+  70% {
+    top: 165px;
+    animation-timing-function: ease-in;
+  }
+  to {
+    top: 150px;
+    animation-timing-function: ease-out;
+  }
+}
+
     #whole_part {
         width:100%;
     }
@@ -216,6 +234,7 @@ header:hover  #navigation a {
     }
 
     .button {
+    color:white;
         display: flex;
         position: relative;
         top: 0;
@@ -226,18 +245,8 @@ header:hover  #navigation a {
         align-items: center;
         justify-content: center;
         border-radius: 100%;
-        background: #2E3F47;
+        background: black;
         z-index: 2;
-    }
-
-    .button__line {
-        background: #ccc;
-        width: 30px;
-        height: 15px;
-
-        &:not(:first-child) {
-        margin-top: 15px;
-        }
     }
 
     .menu {
