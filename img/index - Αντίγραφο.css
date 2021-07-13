@@ -1,0 +1,252 @@
+@import url('https://fonts.googleapis.com/css?family=Lora');
+
+body {
+    font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    padding:0px;
+    margin:0px;
+    max-width:100vw;
+    overflow:hidden;
+    background-color: black;
+    position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+}
+#loading {
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+    background: black;
+    z-index: 999;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+#loading-image {
+    background: no-repeat 50% 50%
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+@keyframes rotate {
+    0% {transform: rotate(0deg);}
+    100% {transform: rotate(360deg);}
+}
+header {
+    width:92vw;
+    padding:6vh 4vw;
+    position:fixed;
+    font-weight:bold;
+    background:transparent;
+    color:#000;
+    transition:0.4s ease-in-out;
+    z-index:2;
+}
+header table {
+    width:100%;
+}
+
+#navigation {
+    text-align:right;
+    width:80%;
+}
+
+#navigation a {
+    color: transparent;
+}
+
+header:hover{
+    background: black;
+}
+
+header:hover  #navigation a {
+    color:white;
+    text-decoration:none;
+    padding:5px 10px;
+    margin-left:4vw;
+    transition:0.4s ease-in-out;
+}
+
+.navbar {
+      display:none;
+    }
+
+#whole_part {
+    width:100%;
+}
+
+#left_part {
+    width:50%;
+    position: center;
+    text-align: center;
+}
+
+.LM_logo {
+    background: no-repeat 50% 50%
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 1;
+    width: 500px;
+    height: auto;
+}
+
+.social {
+    position: relative;
+    top: 0;
+    left: 0;
+    color:rgb(255, 250, 250);
+    font-size:23px;
+    transition:0.4s ease-in-out;
+    font-weight:bold;
+    border-radius:50%;
+    margin: 0px 8px;
+}
+
+.social:hover { 
+    cursor: pointer;
+    color:#fff;
+    transform: scale(1.5);
+}
+
+#instagram {
+    display: inline-block;
+}
+#spotify {
+    display: inline-block;
+}
+#youtube {
+    display: inline-block;
+}
+
+#facebook {
+    display: inline-block;
+}
+
+#right_part {
+    width:50%;
+    height:100vh;
+    background:url("band-img.jpg") 50% 50%;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+#footer {
+    width:100%;
+    padding:10vh 0px;
+    text-align:center;
+    font-weight:bold;
+    font-style: italic;
+    position: relative;
+    bottom: 0;
+}
+#footer small {
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+    bottom: 0;
+}
+
+::placeholder {
+    color:#000;ta
+}
+button:focus {
+    outline:none;
+}
+::-webkit-scrollbar {
+    width:5px;
+    height:5px;
+}
+::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}
+::-webkit-scrollbar-thumb {
+    background: rgb(0, 0, 0); 
+}
+::-webkit-scrollbar-thumb:hover {
+    background: rgba(0, 0, 0,0.8); 
+}
+
+@media (max-width: 720px){
+
+    #whole_part {
+        width:100%;
+    }
+
+    #right_part {
+        display: none;
+    }
+
+    #left_part {
+        width:100%;
+        height:95vh;
+        max-width: 100%;
+    }
+    .LM_logo {
+        max-width: 100%;
+        top: 0;
+        left: 0;
+        width: 100%;
+        border-style: none;
+        position: relative;
+    }
+    header {
+        width:100%;
+        background:black;
+        padding:4vh 2vw;
+        position:absolute;
+    }
+
+    #header table tr td {
+        display:none;
+    }
+
+    .navbar {
+      display:block;
+      float: left;
+    }
+
+    /* The dropdown container */
+    .dropdown {
+      float: left;
+    }
+
+    .dropbtn{
+        position: absolute;
+        background-color: black;
+        color: white;
+        top: 0;
+        left: 0;
+        font-size:23px;
+        transition:0.4s ease-in-out;
+        font-weight:bold;
+        }
+
+    /* Dropdown content (hidden by default) */
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      min-width: 160px;
+      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+      z-index: 1;
+    }
+
+    /* Links inside the dropdown */
+    .dropdown-content a {
+      background-color: black;
+      position: relative;
+      color: white;
+      float: none;
+      padding: 12px 16px;
+      text-decoration: none;
+      display: block;
+      text-align: left;
+    }
+
+    /* Show the dropdown menu */
+    .show {display:block;}
+}

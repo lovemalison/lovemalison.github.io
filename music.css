@@ -50,20 +50,21 @@ body {
     background:url("release.jpg") 50% 50%;
     background-size:cover;
     background-repeat:no-repeat;
+    position: relative;
 }
 
-h1 {
-   position: absolute;
-   text-align:center;
-   top: 50px;
-   left: 50;
-   width: 100%;
+.release_logo {
+    padding-top: 30px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
 }
 
 h2 {
-   position: absolute;
+   position: relative;
    text-align:center;
-   top: 140px;
+   top: 50px;
    left: 0;
    width: 100%;
 }
