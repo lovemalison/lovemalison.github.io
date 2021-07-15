@@ -78,14 +78,24 @@ h2 {
    color: black;
 }
 
-#arrow-down {
-    border: 0;
-    font-size: 1em;
-    margin: 0;
-    outline: 0;
-    padding: 0;
-    vertical-align: baseline;
+#release_button {
+  text-align:center;
+  padding-top: 5%;
 }
+
+.button {
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-decoration: none;
+  font-size: 18px;
+  margin: 4px 2px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.button:hover { background: #333333; }
 
 @media (max-width: 480px){
 
@@ -96,7 +106,6 @@ h2 {
     .releasepage {
         width:100%;
         height:100%;
-        background-color: black;
         max-width: 100vh;
     }
 
