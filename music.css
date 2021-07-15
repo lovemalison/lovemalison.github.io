@@ -72,7 +72,7 @@ h3 {
 h2 {
    position: relative;
    text-align:center;
-   top: 50px;
+   top: 5%;
    left: 0;
    width: 100%;
    color: black;
@@ -120,7 +120,7 @@ h2 {
     h3 {
        position: relative;
        text-align:center;
-       top: 5%;
+       top: 4%;
        left: 0;
        width: 100%;
        color: white;
