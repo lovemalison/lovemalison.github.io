@@ -21,14 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="release">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/band-img1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/band-img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/band-img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/band-imgbefore.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/downloads-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/intro-bg.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/map-marker.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logobefore.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/214968374_367341144832547_8682497163890421642_n.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/music.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
     </list>
@@ -86,13 +79,6 @@
       <option name="presentableId" value="Default" />
       <updated>1612216741987</updated>
       <workItem from="1626112667344" duration="842000" />
-    </task>
-    <task id="LOCAL-00008" summary="fixed bg">
-      <created>1612218535985</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1612218535986</updated>
     </task>
     <task id="LOCAL-00009" summary="fixed bg">
       <created>1612218655328</created>
@@ -430,7 +416,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626117951345</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="release">
+      <created>1626206578333</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1626206578334</updated>
+    </task>
+    <option name="localTasksCounter" value="58" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
