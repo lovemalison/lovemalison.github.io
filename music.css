@@ -72,7 +72,7 @@ h3 {
 h2 {
    position: relative;
    text-align:center;
-   top: 5%;
+   top: 3%;
    left: 0;
    width: 100%;
    color: black;
@@ -80,7 +80,7 @@ h2 {
 
 #release_button {
   text-align:center;
-  padding-top: 5%;
+  padding-top: 2%;
 }
 
 .button {
