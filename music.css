@@ -44,96 +44,68 @@ body {
     width:100%;
 }
 
-.releasepage {
-    width:100%;
+#left_part {
+    width:50%;
     height:100vh;
-    background:url("release.jpg") 50% 50%;
+    background:url("logo.png") 50% 50%;
     background-size:cover;
     background-repeat:no-repeat;
-    position: relative;
 }
 
-.release_logo {
-    padding-top: 30px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 30%;
+#right_part {
+    width:50%;
+    position: center;
+    text-align: center;
 }
 
-.release_logo2 {
-    display: none;
+#release {
+    padding:20vh 4vw;
+    font-weight:bold;
+    text-align:justify;
+    color: #606060;
+    left: 0;
 }
 
-h3 {
-    display: none;
+h1, p {
+ text-align:center
 }
 
-h2 {
-   position: relative;
-   text-align:center;
-   top: 3%;
-   left: 0;
-   width: 100%;
-   color: black;
+.social {
+    position: center;
+    top: 0;
+    left: 0;
+    color:#606060;
+    font-size:20px;
+    transition:0.4s ease-in-out;
+    font-weight:bold;
+    border-radius:50%;
+    margin: 0px 8px;
 }
 
-#release_button {
-  text-align:center;
-  padding-top: 2%;
+.social:hover {
+    cursor: pointer;
+    color:#fff;
+    transform: scale(1.5);
 }
 
-.button {
-  background-color: black;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  text-decoration: none;
-  font-size: 18px;
-  margin: 4px 2px;
-  cursor: pointer;
-  text-align: center;
+#play {
+    text-align: center;
 }
-
-.button:hover { background: #333333; }
 
 @media (max-width: 480px){
 
-    #whole_part {
+#whole_part {
         width:100%;
     }
 
-    .releasepage {
-        width:100%;
-        height:100%;
-        max-width: 100vh;
-    }
-
-    .release_logo2 {
-        padding-top: 60%;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-        width: 80%;
-        position: relative;
-    }
-
-    .release_logo {
+    #left_part {
         display: none;
     }
 
-    h2 {
-       display: none;
+    #right_part {
+        width:100%;
+        height:95vh;
+        max-width: 100%;
     }
-
-    h3 {
-       position: relative;
-       text-align:center;
-       top: 4%;
-       left: 0;
-       width: 100%;
-       color: white;
-    }
-
 
 }
