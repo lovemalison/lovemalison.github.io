@@ -41,7 +41,7 @@ body {
 }
 header {
     width:92vw;
-    padding:6vh 4vw;
+    padding:4vh 4vw;
     position:fixed;
     font-weight:bold;
     background:transparent;
@@ -94,7 +94,7 @@ header:hover  #navigation a {
     top: 0;
     left: 0;
     z-index: 1;
-    width: 500px;
+    width: 300px;
     height: auto;
 }
 
@@ -133,7 +133,7 @@ header:hover  #navigation a {
 #right_part {
     width:50%;
     height:100vh;
-    background:url("band-img.jpg") 50% 50%;
+    background:url("band-img3.jpg") 50% 50%;
     background-size:cover;
     background-repeat:no-repeat;
 }
@@ -215,7 +215,7 @@ $menu-items: 5;
     header {
         width:100%;
         background:black;
-        padding:4vh 2vw;
+        padding:2vh 2vw;
         position:absolute;
     }
 
@@ -233,22 +233,6 @@ $menu-items: 5;
         width: 30px;
         height: 30px;
         top: 5;
-    }
-
-    .button {
-        color:white;
-        display: flex;
-        position: relative;
-        top: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        border-radius: 100%;
-        background: black;
-        z-index: 2;
     }
 
     .menu {
