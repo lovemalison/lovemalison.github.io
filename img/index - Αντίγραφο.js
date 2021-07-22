@@ -33,9 +33,13 @@ setTimeout(function(){
     },800);
 },1650);
 
-function myFunction() {
-  document.getElementById("menuDropdown").classList.toggle("show");
-}
+
+// function to trigger animation of mobile dropdown
+document.querySelector('.button').addEventListener('click', () => {
+  document.querySelector('.menu__list')
+    .classList.toggle('menu__list--animate');
+});
+
 
 $(document).ready(function(){
     $("a").on('click', function(event) {

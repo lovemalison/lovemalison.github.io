@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css?family=Lora');
-/*font-face { font-family: Zombies; src: url('zero&.ttf'); }*/
 
 body {
     font-family: Lora,"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -27,12 +26,14 @@ body {
     align-items: center;
 }
 
-#loading-image {
-    background: no-repeat 50% 50%
-    position: relative;
-    top: 0;
-    left: 0;
-    z-index: 1;
+#spinner {
+    animation: rotate 0.56s infinite linear;
+    width:50px;
+    height:50px;
+    border:12px solid grey;
+    border-bottom:12px solid #fff;
+    border-radius:50%;
+    margin:0;
 }
 
 @keyframes rotate {
@@ -47,7 +48,7 @@ body {
 #left_part {
     width:50%;
     height:100vh;
-    background:url("logo.png") 50% 50%;
+    background:url("logo2.png") 50% 50%;
     background-size:cover;
     background-repeat:no-repeat;
 }
