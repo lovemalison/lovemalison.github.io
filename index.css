@@ -172,7 +172,7 @@ header:hover  #navigation a {
     background: rgba(0, 0, 0,0.8); 
 }
 
-@media (max-width: 720px){
+@media (max-width: 480px){
 
     #whole_part {
         width:100%;

@@ -61,7 +61,7 @@ body {
     color: white;
 }
 
-@media (max-width: 720px){
+@media (max-width: 480px){
 
     #whole_part {
             width:100%;

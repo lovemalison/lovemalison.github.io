@@ -21,29 +21,6 @@
   <component name="ChangeListManager">
     <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="about">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/214996421_141503521395834_900602869332480134_n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/215188009_529169811554856_2996516938888249671_n.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/217297311_949495402569770_3275416280223249771_n.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.css" beforeDir="false" afterPath="$PROJECT_DIR$/about.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collage.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collage1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collage2.png" beforeDir="false" afterPath="$PROJECT_DIR$/collage2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/index - Αντίγραφο.css" beforeDir="false" afterPath="$PROJECT_DIR$/img/index - Αντίγραφο.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/index - Αντίγραφο.html" beforeDir="false" afterPath="$PROJECT_DIR$/img/index - Αντίγραφο.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/index - Αντίγραφο.js" beforeDir="false" afterPath="$PROJECT_DIR$/img/index - Αντίγραφο.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/logobefore.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo2.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/music.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/release-logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release-logo2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/release2.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,13 +76,6 @@
       <option name="presentableId" value="Default" />
       <updated>1612216741987</updated>
       <workItem from="1626112667344" duration="842000" />
-    </task>
-    <task id="LOCAL-00015" summary="chaneg">
-      <created>1612555566528</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1612555566528</updated>
     </task>
     <task id="LOCAL-00016" summary="remove play button from header">
       <created>1612555945176</created>
@@ -443,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626901418254</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="about">
+      <created>1626985259304</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1626985259306</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
