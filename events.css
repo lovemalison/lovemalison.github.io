@@ -40,6 +40,44 @@ body {
     0% {transform: rotate(0deg);}
     100% {transform: rotate(360deg);}
 }
+header {
+    width:92vw;
+    padding:4vh 4vw;
+    position:fixed;
+    font-weight:bold;
+    background:transparent;
+    color:#000;
+    transition:0.4s ease-in-out;
+    z-index:2;
+}
+header table {
+    width:100%;
+}
+
+#navigation {
+    text-align:center;
+    width:80%;
+}
+
+#navigation a {
+    color: transparent;
+}
+
+header:hover{
+    background: black;
+}
+
+header:hover  #navigation a {
+    color:white;
+    text-decoration:none;
+    padding:5px 10px;
+    margin-left:4vw;
+    transition:0.4s ease-in-out;
+}
+
+.navbar {
+      display:none;
+    }
 
 #whole_part {
     width:100%;
@@ -107,6 +145,77 @@ h1 {
         width:100%;
         height:95vh;
         max-width: 100%;
+    }
+
+    header {
+        width:100%;
+        background:black;
+        padding:2vh 2vw;
+        position:absolute;
+    }
+
+    #header table tr td {
+        display:none;
+    }
+
+    .navbar {
+        display:block;
+        float: left;
+    }
+
+    .wrapper {
+        position: absolute;
+        width: 30px;
+        height: 30px;
+        top: 5;
+        z-index: 1;
+    }
+
+    .button {
+        color:white;
+        display: flex;
+        position: relative;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        border-radius: 100%;
+        background: black;
+        z-index: 2;
+    }
+
+    .menu {
+        width: 100%;
+    }
+
+    .menu__list {
+        text-align: left;
+        width: 100%;
+        padding-left: 0;
+    }
+
+    .menu__list__item {
+        position: relative;
+        list-style: none;
+        padding-bottom: 15px;
+        top: 0px;
+        opacity: 0;
+    }
+
+    .menu__list__item a {
+        text-decoration: none;
+        color: white;
+        text-align: center;
+        font-size: 0.9em;
+    }
+
+    .menu__list--animate .menu__list__item {
+        animation: drop 0.9s;
+        animation-fill-mode: forwards;
+        opacity: 1;
     }
 
 }
