@@ -97,7 +97,7 @@ header:hover  #navigation a {
     text-align: center;
 }
 
-#release {
+#events {
     padding:20vh 4vw;
     font-weight:bold;
     text-align:justify;
@@ -105,7 +105,7 @@ header:hover  #navigation a {
     left: 0;
 }
 
-h1 {
+h1,p {
  text-align:center
 }
 
@@ -216,6 +216,12 @@ h1 {
         animation: drop 0.9s;
         animation-fill-mode: forwards;
         opacity: 1;
+    }
+
+    #events {
+    font-size:20vw
+    font-weight:bold;
+    color: white;
     }
 
 }
