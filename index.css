@@ -132,6 +132,10 @@ header:hover  #navigation a {
     display: inline-block;
 }
 
+#ditto {
+    display: inline-block;
+}
+
 #right_part {
     width:50%;
     height:100vh;
