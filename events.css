@@ -86,7 +86,7 @@ header:hover  #navigation a {
 #left_part {
     width:50%;
     height:100vh;
-    background:url("logo2.png") 50% 50%;
+    background:url("logo.png") 50% 50%;
     background-size:cover;
     background-repeat:no-repeat;
 }

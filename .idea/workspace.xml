@@ -21,22 +21,8 @@
   <component name="ChangeListManager">
     <list default="true" id="162a3394-dbad-47b5-8a19-59a2f5647980" name="Default Changelist" comment="event">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/band-img2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/band-img3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/collage2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/events.html" beforeDir="false" afterPath="$PROJECT_DIR$/events.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/flow_50.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/band-img2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/band-img2.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/band-img3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/band-img3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/events.css" beforeDir="false" afterPath="$PROJECT_DIR$/events.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/music.css" beforeDir="false" afterPath="$PROJECT_DIR$/music.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/music.html" beforeDir="false" afterPath="$PROJECT_DIR$/music.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
